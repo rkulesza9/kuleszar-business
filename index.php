@@ -202,7 +202,7 @@
 						</div>
 						<div class="col-sm-offset-1 col-sm-5">
 							<div class="single-about-img">
-								<img src="assets/images/about/me2.jpg" alt="profile_image">
+								<img src="assets/images/about/professional-photo.png" alt="profile_image">
 								<div class="about-list-icon">
 									<ul>
 										<li>
