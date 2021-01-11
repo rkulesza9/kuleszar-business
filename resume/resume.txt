@@ -1,0 +1,45 @@
+﻿Robert Kulesza
+kuleszar@kean.edu | http://www.robkulesza.com/ | http://www.github.com/rkulesza9
+
+With a strong background in mathematics, computer science, and research experience in Machine Learning, I am a great candidate for a researcher position.
+
+EDUCATION
+Kean University, Union City, NJ — Masters in Computer Information Systems
+SEPT 2019 – DEC 2020
+    • Maintained a GPA of above 3.9
+Kean University, Union City, NJ — Bachelors in Mathematics
+SEPT 2017 - AUG 2019
+    • Maintained a GPA of above 3.8
+    • Graduated Magna Cum Laude
+    • Dean’s List Honoree
+    • Phi Kappa Phi (National Honor Society)
+    • Lambda Alpha Sigma (Kean’s Honor Society)
+
+EXPERIENCE
+Kean University, Union, NJ —  Adjunct Professor
+JAN 2021 - MAY 2021
+    • Instructed sections for Fundamentals of Computer Science
+    • JAVA
+Graduate Research, Kean University, Union, NJ —  Research Assistant
+MAY 2019 - SEP 2020
+    • Solved current Artificial Intelligence research problems.
+    • Built neural networks for machine learning.
+    • Led a team of undergrad students and provided technical support.
+    • Wrote a formal research paper
+Office of Institutional Research, Kean University, Union, NJ —  Graduate Assistant / Student Worker
+MAY 2019 – MAY 2020, SEPT 2020 – DEC 2020
+    • Solved problems using ASP .NET, visual basic, and SQL.
+Code Samurai, Kean University, Union, NJ —  Tutor
+SEPT 2018 – JAN 2021
+    • Tutored Students in a variety of undergrad Computer Science courses
+    • Instructed groups of Students
+Undergraduate Research, Kean University, Union, NJ —  Research Assistant
+OCT 2018 - MAY 2019
+    • Solved current Artificial Intelligence research problems.
+    • Built neural networks for machine learning.
+    • Wrote a formal research paper.
+PUBLICATIONS
+Kulesza R., Kumar Y., Ruiz R., Torres A., Weinman E.,  Li J. J., Morreale P. Investigating Deep Learning for Predicting Multi-linguistic Interactions with a Chatterbot. IEEE Conference on Big Data and Analytics (ICBDA). 2020.
+Fortes S., Kulesza R., Li J. J. A Case Study of Object Recognition from Drone Videos. Submitted to Conference.
+
+
