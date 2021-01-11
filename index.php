@@ -146,8 +146,8 @@
 						<div class="header-text">
 							<h2>hi <span>,</span> i am <br> Robert <br> Kulesza <span>.</span>   </h2>
 							<p>Multi-plaftorm Developer (android, ios, desktop, web).</p>
-              <a target="_blank" href="https://docs.google.com/document/d/1X0mQmsEkjs9c4w5-ScHWE-ytSyZ1-I9Irq_xT3kJdLY/edit#heading=h.gjdgxs" >download resume</a><br><br>
-							<a href="https://drive.google.com/file/d/1iXe3r6M0wyCI03H6oOdllr7NQwiHj6Q5/view?usp=sharing" download>download resume TXT</a>
+              <a target="_blank" href="resume/resume.pdf" >download resume</a><br><br>
+							<a href="resume/resume.txt">download resume TXT</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
 				</div><!-- /.row-->
